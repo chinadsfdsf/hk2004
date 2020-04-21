@@ -16,9 +16,10 @@ categories:
     >}}
 <br>
 
-{{< mydiv4o link="https://hk2002b.chinadsf.org/blog/2020/02/09/spec01/"
-    text="从工程师的角度看处理口罩重新再使用的方法" 
-    >}}
-<br>
+{{< mydiv4o link="https://hk2004.chinadsf.org/hot/hotnews/" text=" hot  news 以前的新闻 20040" >}}
+{{< mydiv4o link="https://hk2004a.chinadsf.org/hot/hotnews/" text=" hot  news 以前的新闻 2004a" >}}
+{{< mydiv4o link="https://hk2004b.chinadsf.org/hot/hotnews/" text=" hot  news 以前的新闻 2004b" >}}
+{{< mydiv4o link="https://hk2004c.chinadsf.org/hot/hotnews/" text=" hot  news 以前的新闻 2004c" >}}
+{{< mydiv4o link="https://hk2004d.chinadsf.org/hot/hotnews/" text=" hot  news 以前的新闻 2004d" >}}
 
 {{< my2genlistbytag "hotnews" >}}
